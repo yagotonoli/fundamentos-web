@@ -1,0 +1,58 @@
+/* Estilos da index.html */
+
+.center {
+    
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px;
+}
+
+.texto {
+    
+    font-size: 20px;
+}
+
+.linha {
+    display: flex;
+    flex-direction: row;
+}
+
+#menu li {
+    display: inline;
+    padding: 15px;
+}
+
+#menu li a {
+    text-decoration: none;
+    color: azure;
+    background-color: forestgreen;
+}
+
+menu li a:hover {
+    color: azure;
+    background-color: darkgreen;
+}
+.borda {
+    border-radius: 10%;
+}
+
+.wh {
+    width: 600px;
+    height: 600px;
+}
+
+.wh2 {
+    width: 700px;
+    height: 400px;
+}
+/* Estilos da acervo.html */
+
+
+
+/* Estilos da contato.html */
