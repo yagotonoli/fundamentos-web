@@ -1,0 +1,73 @@
+/* Estilos da index.html */
+
+.center {
+    
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px;
+}
+
+.texto {
+    
+    font-size: 20px;
+}
+
+.linha {
+    display: inline;
+}
+
+#menu li {
+    display: inline;
+    padding: 15px;
+}
+
+#menu li a {
+    text-decoration: none;
+    color: black;
+}
+
+#cabeca {
+    text-decoration: none;
+    color: darkblue;
+}
+
+menu li a:hover {
+    color: azure;
+    background-color: darkblue;
+}
+.borda {
+    border-radius: 10%;
+}
+
+.logo {
+    width: 120px;
+    height: 70px;
+}
+
+.wh {
+    width: 600px;
+    height: 600px;
+}
+
+.wh2 {
+    width: 700px;
+    height: 400px;
+}
+
+.p50 {
+    padding: 50px;
+}
+.margin {
+    margin: 200px;
+}
+/* Estilos da acervo.html */
+
+
+
+/* Estilos da contato.html */
